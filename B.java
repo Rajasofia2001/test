@@ -5,5 +5,6 @@ class B
 		System.out.println("i am into test lara");
 		System.out.println("i am into test lara");
 		System.out.println("i am into test lara");
+		System.out.println("i am into test lara");
 	}
 }
